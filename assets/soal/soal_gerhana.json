@@ -1,0 +1,167 @@
+[
+  {
+    "no": 1,
+    "soal": "Apa yang dimaksud dengan gerhana matahari?",
+    "pilihan": [
+      "Matahari mengelilingi Bumi",
+      "Bulan berada di antara Matahari dan Bumi",
+      "Bumi berada di antara Matahari dan Bulan",
+      "Bulan menghilang dari langit"
+    ],
+    "jawaban": "B"
+  },
+  {
+    "no": 2,
+    "soal": "Gerhana matahari hanya terjadi saat Bulan dalam fase...",
+    "pilihan": [
+      "Bulan purnama",
+      "Bulan separuh",
+      "Bulan baru",
+      "Bulan sabit"
+    ],
+    "jawaban": "C"
+  },
+  {
+    "no": 3,
+    "soal": "Bayangan Bulan jatuh ke permukaan Bumi terjadi pada...",
+    "pilihan": [
+      "Gerhana bulan",
+      "Gerhana matahari",
+      "Ekuinoks",
+      "Revolusi"
+    ],
+    "jawaban": "B"
+  },
+  {
+    "no": 4,
+    "soal": "Gerhana matahari total terjadi ketika...",
+    "pilihan": [
+      "Hanya sebagian Matahari tertutup",
+      "Bulan tampak seperti cincin",
+      "Seluruh bagian Matahari tertutup oleh Bulan",
+      "Matahari berada di belakang Bumi"
+    ],
+    "jawaban": "C"
+  },
+  {
+    "no": 5,
+    "soal": "Gerhana matahari cincin terlihat seperti...",
+    "pilihan": [
+      "Bulan bercahaya",
+      "Matahari berbentuk bintang",
+      "Cincin cahaya mengelilingi Bulan",
+      "Bulan berwarna merah"
+    ],
+    "jawaban": "C"
+  },
+  {
+    "no": 6,
+    "soal": "Gerhana bulan terjadi saat posisi ketiga benda langit adalah...",
+    "pilihan": [
+      "Matahari - Bulan - Bumi",
+      "Bulan - Matahari - Bumi",
+      "Matahari - Bumi - Bulan",
+      "Bumi - Bulan - Matahari"
+    ],
+    "jawaban": "C"
+  },
+  {
+    "no": 7,
+    "soal": "Gerhana bulan hanya bisa terjadi ketika Bulan berada pada fase...",
+    "pilihan": [
+      "Bulan baru",
+      "Bulan sabit",
+      "Bulan separuh",
+      "Bulan purnama"
+    ],
+    "jawaban": "D"
+  },
+  {
+    "no": 8,
+    "soal": "Saat gerhana bulan, bayangan apa yang jatuh ke permukaan Bulan?",
+    "pilihan": [
+      "Bayangan Bulan",
+      "Bayangan Bumi",
+      "Bayangan Matahari",
+      "Tidak ada bayangan"
+    ],
+    "jawaban": "B"
+  },
+  {
+    "no": 9,
+    "soal": "Gerhana bulan total terjadi ketika...",
+    "pilihan": [
+      "Bulan hanya tertutup sebagian oleh bayangan Bumi",
+      "Bulan tertutup penuh oleh bayangan Bumi",
+      "Bulan tertutup oleh awan",
+      "Bulan tidak tampak di langit"
+    ],
+    "jawaban": "B"
+  },
+  {
+    "no": 10,
+    "soal": "Warna Bulan saat gerhana bulan total bisa menjadi...",
+    "pilihan": [
+      "Putih terang",
+      "Hitam pekat",
+      "Merah gelap",
+      "Hijau terang"
+    ],
+    "jawaban": "C"
+  },
+  {
+    "no": 11,
+    "soal": "Gerhana bulan penumbra terjadi saat...",
+    "pilihan": [
+      "Bulan tidak tertutup sama sekali",
+      "Bulan tertutup oleh bayangan inti Bumi",
+      "Bulan tertutup oleh bayangan luar Bumi",
+      "Bulan tertutup oleh awan"
+    ],
+    "jawaban": "C"
+  },
+  {
+    "no": 12,
+    "soal": "Jenis gerhana bulan yang terjadi jika hanya sebagian Bulan tertutup bayangan Bumi adalah...",
+    "pilihan": [
+      "Total",
+      "Sebagian",
+      "Cincin",
+      "Penumbra"
+    ],
+    "jawaban": "B"
+  },
+  {
+    "no": 13,
+    "soal": "Gerhana matahari dapat diamati hanya dari...",
+    "pilihan": [
+      "Semua tempat di Bumi",
+      "Tempat yang terkena bayangan Bulan",
+      "Kutub Utara",
+      "Angkasa luar"
+    ],
+    "jawaban": "B"
+  },
+  {
+    "no": 14,
+    "soal": "Salah satu bahaya mengamati gerhana matahari tanpa alat pelindung adalah...",
+    "pilihan": [
+      "Pusing",
+      "Kelelahan",
+      "Kerusakan mata",
+      "Kulit terbakar"
+    ],
+    "jawaban": "C"
+  },
+  {
+    "no": 15,
+    "soal": "Alat yang aman digunakan untuk melihat gerhana matahari adalah...",
+    "pilihan": [
+      "Kacamata hitam biasa",
+      "Teleskop tanpa filter",
+      "Kacamata gerhana khusus",
+      "Kaca mobil"
+    ],
+    "jawaban": "C"
+  }
+]

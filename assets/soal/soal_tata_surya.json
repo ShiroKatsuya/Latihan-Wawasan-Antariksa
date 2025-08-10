@@ -1,0 +1,168 @@
+[
+  {
+    "no": 1,
+    "soal": "Pusat dari Tata Surya adalah...",
+    "pilihan": [
+      "Bulan",
+      "Matahari",
+      "Bumi",
+      "Jupiter"
+    ],
+    "jawaban": "B"
+  },
+ {
+    "no": 2,
+    "soal": "Planet yang paling dekat dengan Matahari adalah...",
+    "pilihan": [
+      "Venus",
+      "Bumi",
+      "Mars",
+      "Merkurius"
+    ],
+    "jawaban": "D"
+  },
+  {
+    "no": 3,
+    "soal": "Planet yang memiliki suhu paling panas karena atmosfernya tebal adalah...",
+    "pilihan": [
+      "Venus",
+      "Mars",
+      "Merkurius",
+      "Bumi"
+    ],
+    "jawaban": "A"
+  },
+  {
+    "no": 4,
+    "soal": "Satu-satunya planet yang diketahui memiliki kehidupan adalah...",
+    "pilihan": [
+      "Mars",
+      "Bumi",
+      "Jupiter",
+      "Uranus"
+    ],
+    "jawaban": "B"
+  },
+  {
+    "no": 5,
+    "soal": "Satelit alami Bumi adalah...",
+    "pilihan": [
+      "Titan",
+      "Deimos",
+      "Bulan",
+      "Phobos"
+    ],
+    "jawaban": "C"
+  },
+  {
+    "no": 6,
+    "soal": "Planet yang disebut “planet merah” karena permukaannya berwarna merah adalah...",
+    "pilihan": [
+      "Merkurius",
+      "Venus",
+      "Mars",
+      "Saturnus"
+    ],
+    "jawaban": "C"
+  },
+  {
+    "no": 7,
+    "soal": "Gunung tertinggi di Tata Surya, Olympus Mons, terdapat di planet...",
+    "pilihan": [
+      "Bumi",
+      "Jupiter",
+      "Mars",
+      "Saturnus"
+    ],
+    "jawaban": "C"
+  },
+  {
+    "no": 8,
+    "soal": "Planet terbesar di Tata Surya adalah...",
+    "pilihan": [
+      "Uranus",
+      "Saturnus",
+      "Jupiter",
+      "Neptunus"
+    ],
+    "jawaban": "C"
+  },
+  {
+    "no": 9,
+    "soal": "Bintik Merah Raksasa yang merupakan badai besar terdapat di planet...",
+    "pilihan": [
+      "Saturnus",
+      "Jupiter",
+      "Mars",
+      "Uranus"
+    ],
+    "jawaban": "B"
+  },
+  {
+    "no": 10,
+    "soal": "Planet yang terkenal dengan cincin yang mengelilinginya adalah...",
+    "pilihan": [
+      "Jupiter",
+      "Venus",
+      "Saturnus",
+      "Mars"
+    ],
+    "jawaban": "C"
+  },
+  {
+    "no": 11,
+    "soal": "Satelit terbesar milik Jupiter bernama...",
+    "pilihan": [
+      "Phobos",
+      "Titan",
+      "Ganymede",
+      "Deimos"
+    ],
+    "jawaban": "C"
+  },
+  {
+    "no": 12,
+    "soal": "Planet yang poros rotasinya sangat miring dan berwarna biru kehijauan adalah...",
+    "pilihan": [
+      "Saturnus",
+      "Uranus",
+      "Venus",
+      "Mars"
+    ],
+    "jawaban": "B"
+  },
+  {
+    "no": 13,
+    "soal": "Warna biru cerah pada planet Neptunus disebabkan oleh...",
+    "pilihan": [
+      "Gunung api",
+      "Air",
+      "Gas metana",
+      "Cincin es"
+    ],
+    "jawaban": "C"
+  },
+  {
+    "no": 14,
+    "soal": "Planet terjauh dari Matahari adalah...",
+    "pilihan": [
+      "Saturnus",
+      "Uranus",
+      "Mars",
+      "Neptunus"
+    ],
+    "jawaban": "D"
+  },
+  {
+    "no": 15,
+    "soal": "Bulan tidak memiliki atmosfer, sehingga...",
+    "pilihan": [
+      "Udara sangat bersih",
+      "Suhunya tetap hangat",
+      "Permukaannya penuh kawah",
+      "Tidak ada gravitasi"
+    ],
+    "jawaban": "C"
+  }
+ 
+]
