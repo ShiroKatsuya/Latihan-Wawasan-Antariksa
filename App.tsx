@@ -8,7 +8,7 @@ import "./global.css"
 
 import Dashboard from './screens/Dashboard';
 import Camera from './screens/Camera';
-import Quiz_APP from './screens/Quiz_APP';
+import LatihanWawasanAntariksa from './screens/Latihan-Wawasan-Antariksa';
 import Quiz_TataSurya from './screens/quiz_tata_surya';
 import Quiz_Gerhana from './screens/quiz_gerhana';
 
@@ -25,14 +25,14 @@ export default function App() {
     <GestureHandlerRootView style={{ flex: 1 }}>
       <NavigationContainer>
         <Stack.Navigator
-          initialRouteName="Quiz_APP"
+          initialRouteName="Latihan-Wawasan-Antariksa"
           screenOptions={{
             headerShown: false,
           }}
         >
           <Stack.Screen name="Dashboard" component={Dashboard} />
           <Stack.Screen name="Scan" component={Camera} />
-          <Stack.Screen name="Quiz_APP" component={Quiz_APP} />
+          <Stack.Screen name="Latihan-Wawasan-Antariksa" component={LatihanWawasanAntariksa} />
           <Stack.Screen name="Quiz_TataSurya" component={Quiz_TataSurya} />
           <Stack.Screen name="Quiz_Gerhana" component={Quiz_Gerhana} />
         </Stack.Navigator>

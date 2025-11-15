@@ -25,7 +25,7 @@ export default function Dashboard() {
       
       <TouchableOpacity 
         className="bg-blue-500 px-6 py-3 rounded-lg"
-        onPress={() => navigation.navigate('Quiz_APP' as never)}
+        onPress={() => navigation.navigate('Latihan-Wawasan-Antariksa' as never)}
       >
         <Text className="text-white font-semibold text-lg">
           Buka Quiz APP

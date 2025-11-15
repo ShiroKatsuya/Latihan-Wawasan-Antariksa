@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "my-expo-app",
-    "slug": "my-expo-app",
+    "name": "Latihan-Wawasan-Antariksa",
+    "slug": "Latihan-Wawasan-Antariksa",
     "version": "1.0.0",
     "web": {
       "favicon": "./assets/favicon.png"
@@ -33,7 +33,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "83b702b4-779a-481c-aa53-9feab7b532d8"
+        "projectId": "72279cb0-032c-4ccc-9151-e96b4c642baa"
       }
     },
     "owner": "anti0009x"
