@@ -217,10 +217,10 @@ Proyek ini dikembangkan sebagai aplikasi edukasi untuk meningkatkan pemahaman te
 - [Expo Camera](https://docs.expo.dev/versions/latest/sdk/camera/)
 
 ### Lisensi
-Proyek ini bersifat private.
+Proyek ini menggunakan lisensi MIT.
 
 ---
 
 **Versi**: 1.0.0  
-**Terakhir Diupdate**: 2024
+**Terakhir Diupdate**: 2025
 
