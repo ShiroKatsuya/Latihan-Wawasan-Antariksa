@@ -18,7 +18,7 @@ Aplikasi ini dibangun menggunakan teknologi modern untuk memberikan pengalaman b
 ### Fitur Utama
 1. **Quiz Tata Surya** - Kuis interaktif tentang sistem tata surya dengan berbagai pertanyaan edukatif
 2. **Quiz Gerhana** - Kuis tentang fenomena gerhana matahari dan bulan
-3. **Scan/Kamera** - Fitur pemindaian menggunakan kamera perangkat untuk pengalaman interaktif
+3. **Scan QR Planet/Kamera** - Fitur pemindaian menggunakan kamera perangkat untuk pengalaman interaktif
 4. **Dashboard** - Antarmuka utama dengan navigasi ke semua fitur aplikasi
 5. **UI Modern** - Desain antarmuka yang menarik dengan latar belakang bintang dan animasi
 
@@ -169,7 +169,7 @@ Jika Anda ingin build APK secara lokal tanpa EAS:
    - Tekan `w` untuk membuka di web
    - Tekan `a` untuk membuka di Android emulator/perangkat
    - Tekan `i` untuk membuka di iOS simulator (macOS only)
-   - Scan QR code dengan Expo Go app di perangkat mobile Anda
+   - Scan QR Planet QR code dengan Expo Go app di perangkat mobile Anda
 
 ### Menggunakan Fitur Aplikasi
 
@@ -187,8 +187,8 @@ Jika Anda ingin build APK secara lokal tanpa EAS:
    - Pelajari tentang fenomena gerhana melalui kuis interaktif
    - Tingkatkan pemahaman Anda tentang gerhana matahari dan bulan
 
-4. **Scan/Kamera**
-   - Pilih menu "Scan"
+4. **Scan QR Planet/Kamera**
+   - Pilih menu "Scan QR Planet"
    - Gunakan kamera perangkat untuk fitur pemindaian interaktif
    - Pastikan aplikasi memiliki izin akses kamera
 

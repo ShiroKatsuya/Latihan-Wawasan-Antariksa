@@ -21,7 +21,7 @@ interface QuizCategory {
 }
 
 const quizCategories: QuizCategory[] = [
-  { id: '1', title: 'Scan', imageSource: require('../assets/camera.png') },
+  { id: '1', title: 'Scan QR Planet', imageSource: require('../assets/camera.png') },
   { id: '2', title: 'Quiz Tata Surya', imageSource: require('../assets/solar-system.png') },
   { id: '3', title: 'Quiz Gerhana', imageSource: require('../assets/eclipse.png') },
 ];
@@ -65,8 +65,8 @@ export default function QuizApp() {
                   ? () => navigation.navigate('Quiz_TataSurya' as never)
                   : category.title === 'Quiz Gerhana'
                   ? () => navigation.navigate('Quiz_Gerhana' as never)
-                  :category.title === 'Scan'
-                  ? () => navigation.navigate('Scan' as never)
+                  :category.title === 'Scan QR Planet'
+                  ? () => navigation.navigate('Scan QR Planet' as never)
                   : undefined
               }
             >

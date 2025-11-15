@@ -31,7 +31,7 @@ export default function App() {
           }}
         >
           <Stack.Screen name="Dashboard" component={Dashboard} />
-          <Stack.Screen name="Scan" component={Camera} />
+          <Stack.Screen name="Scan QR Planet" component={Camera} />
           <Stack.Screen name="Latihan-Wawasan-Antariksa" component={LatihanWawasanAntariksa} />
           <Stack.Screen name="Quiz_TataSurya" component={Quiz_TataSurya} />
           <Stack.Screen name="Quiz_Gerhana" component={Quiz_Gerhana} />

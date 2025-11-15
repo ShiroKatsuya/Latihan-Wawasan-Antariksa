@@ -29,13 +29,13 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.anti0009x.myexpoapp"
+      "package": ""
     },
     "extra": {
       "eas": {
-        "projectId": "72279cb0-032c-4ccc-9151-e96b4c642baa"
+        "projectId": ""
       }
     },
-    "owner": "anti0009x"
+    "owner": ""
   }
 }
