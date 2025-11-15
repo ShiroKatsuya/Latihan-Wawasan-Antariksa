@@ -207,7 +207,7 @@ Jika Anda ingin build APK secara lokal tanpa EAS:
 Proyek ini dikembangkan sebagai aplikasi edukasi untuk meningkatkan pemahaman tentang antariksa.
 
 ### Kontributor
-- **Owner**: anti0009x
+- **Owner**: ShiroKatsuya
 
 ### Teknologi & Library
 - [React Native](https://reactnative.dev/)
